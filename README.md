@@ -1,0 +1,1 @@
+# Ogrenci-sayisini-ve-notunu-yazdiran-program
